@@ -7,7 +7,7 @@
 
 💡 &nbsp;I currently studying BS Computer Science at [ACLC Iriga](https://github.com/aclc-iriga). \
 ✍️ &nbsp;A lazy developer who stays in their comfort zone and doesn't help out.\
-✉️ &nbsp;You can email me at navales.johnlouie18@gmail.com. I'll try to respond as soon as possible!
+✉️ &nbsp;You can email me at navales.johnlouie18@gmail.com.
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -17,7 +17,6 @@
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ![Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)&nbsp;
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)&nbsp;
 
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
