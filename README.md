@@ -6,7 +6,6 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;I currently studying BS Computer Science at [ACLC Iriga](https://github.com/aclc-iriga). \
-✍️ &nbsp;A lazy developer who stays in their comfort zone and doesn't help out.\
 ✉️ &nbsp;You can email me at navales.johnlouie18@gmail.com.
 
 ### 🛠 &nbsp;Tech Stack
