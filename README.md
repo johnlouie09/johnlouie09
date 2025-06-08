@@ -5,16 +5,14 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 🎓 &nbsp;I’m a recent graduate with a **Bachelor of Science in Computer Science** from [ACLC Iriga](https://github.com/aclc-iriga).
-💼 &nbsp;I’m now actively looking for opportunities as a **full-stack developer** or **junior web developer**.
+💼 &nbsp;I’m now actively looking for opportunities as a **full-stack developer** or **junior web developer**. \
 ✉️ &nbsp;You can email me at navales.johnlouie18@gmail.com.
 
 ### 🌟 &nbsp;Featured GitHub Repositories
 
-| Repository | Description | Tech Stack |
-|-----------|-------------|------------|
-| [YOUTH Platform](https://github.com/johnlouie09/youth) | A unified transparency hub for empowering SK leaders in Iriga City. | PHP, Vue 3, MySQL |
-| [Laundry Management System](https://github.com/johnlouie09/laundry-management) | A system to manage laundry service operations, built for small business use. | PHP, Tailwind, MySQL |
-| [ACLC Tabulation Page](https://github.com/johnlouie09/aclc-tabulation) | Landing page for a tabulation system used in school events. | HTML, CSS, JS, PHP |
+[![YOUTH Platform](https://github-readme-stats.vercel.app/api/pin/?username=johnlouie09&repo=youth&theme=default)](https://github.com/johnlouie09/youth)
+[![Laundry Management System](https://github-readme-stats.vercel.app/api/pin/?username=johnlouie09&repo=laundry-management&theme=default)](https://github.com/johnlouie09/laundry-management)
+[![ACLC Tabulation Page](https://github-readme-stats.vercel.app/api/pin/?username=johnlouie09&repo=aclc-tabulation&theme=default)](https://github.com/johnlouie09/aclc-tabulation)
 
 ### 🛠 &nbsp;Tech Stack
 
