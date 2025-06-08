@@ -4,15 +4,15 @@
 ### <img alt="handwavegif" src="https://user-images.githubusercontent.com/39513876/112366216-8cfe7400-8cfe-11eb-8116-7d3dbae20e97.gif" width='40' align="left"/> Hello there !
 ### 👨🏻‍💻 &nbsp;About Me
 
-🎓 &nbsp;I’m a recent graduate with a **Bachelor of Science in Computer Science** from [ACLC Iriga](https://github.com/aclc-iriga).
+🎓 &nbsp;I’m a recent graduate with a **Bachelor of Science in Computer Science** from [ACLC Iriga](https://github.com/aclc-iriga). \
 💼 &nbsp;I’m now actively looking for opportunities as a **full-stack developer** or **junior web developer**. \
 ✉️ &nbsp;You can email me at navales.johnlouie18@gmail.com.
 
 ### 🌟 &nbsp;Featured GitHub Repositories
 
-[![YOUTH Platform](https://github-readme-stats.vercel.app/api/pin/?username=johnlouie09&repo=youth&theme=default)](https://github.com/johnlouie09/youth)
-[![Laundry Management System](https://github-readme-stats.vercel.app/api/pin/?username=johnlouie09&repo=laundry-management&theme=default)](https://github.com/johnlouie09/laundry-management)
-[![ACLC Tabulation Page](https://github-readme-stats.vercel.app/api/pin/?username=johnlouie09&repo=aclc-tabulation&theme=default)](https://github.com/johnlouie09/aclc-tabulation)
+[![YOUTH Platform](https://github-readme-stats.vercel.app/api/pin/?username=johnlouie09&repo=youth&theme=radical)](https://github.com/johnlouie09/youth)
+[![Laundry Management System](https://github-readme-stats.vercel.app/api/pin/?username=johnlouie09&repo=bubble-bliz&theme=radical)](https://github.com/johnlouie09/bubble-bliz)
+[![ACLC Tabulation Page](https://github-readme-stats.vercel.app/api/pin/?username=johnlouie09&repo=aclc-tabulation-landing&theme=radical)](https://github.com/johnlouie09/aclc-tabulation-landing)
 
 ### 🛠 &nbsp;Tech Stack
 
