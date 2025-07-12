@@ -7,7 +7,7 @@
 🎓 &nbsp;I’m a recent graduate with a **Bachelor of Science in Computer Science** from [ACLC Iriga](https://github.com/aclc-iriga). \
 🔭 &nbsp;I'm currently working on JMH Microfinance Inc. as an Account Officer. \
 💼 &nbsp;I’m now actively looking for opportunities as a **full-stack developer** or **junior web developer**. \
-✉️ &nbsp;You can email me at navales.johnlouie18@gmail.com.
+✉️ &nbsp;You can email me at navales.johnlouie18@gmail.com or louienvls09@gmail.com.
 
 ### 🌟 &nbsp;Featured GitHub Repositories
 
