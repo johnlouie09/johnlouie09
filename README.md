@@ -51,7 +51,7 @@
 
 ### 🌟 Contributions
 
-![Graph](https://github-readme-activity-graph.vercel.app/graph?username=johnlouie09&theme=react)
+![Graph](https://github-readme-activity-graph.vercel.app/graph?username=johnlouie09&&bg_color=0d1117&color=ffffff&line=00b3ff&point=f9fafa&area=true)
 
 ---
 | ✍️ Random Dev Quote                                                               | 🔝 Top Contributed Repo                                                                                                                      |
