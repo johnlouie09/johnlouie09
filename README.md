@@ -1,5 +1,3 @@
-![BannerGIF](https://i0.wp.com/i.giphy.com/media/Ay3bG6MdVQJlaAXltw/giphy-downsized.gif?w=770&ssl=1)
-
 
 ### <img alt="handwavegif" src="https://user-images.githubusercontent.com/39513876/112366216-8cfe7400-8cfe-11eb-8116-7d3dbae20e97.gif" width='40' align="left"/> Hello there !
 ### 👨🏻‍💻 &nbsp;About Me
@@ -8,6 +6,9 @@
 💼 &nbsp;I’m now actively looking for opportunities as a **full-stack developer** or **junior web developer**. \
 ✉️ &nbsp;You can email me at navales.johnlouie18@gmail.com or louienvls09@gmail.com.
 
+[![Visit Counter](https://komarev.com/ghpvc/?username=Xylphy&style=for-the-badge&color=3bcdeb)](https://komarev.com/ghpvc/?username=Xylphy&style=for-the-badge&color=3bcdeb)
+
+---
 ### 🌟 &nbsp;Featured GitHub Repositories
 
 [![YOUTH Platform](https://github-readme-stats.vercel.app/api/pin/?username=johnlouie09&repo=youth&theme=tokyonight)](https://github.com/johnlouie09/youth)
@@ -35,7 +36,26 @@
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)&nbsp;
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
+## 📊 GitHub Stats:
 
+![Github Stats](https://github-readme-stats.vercel.app/api?username=johnlouie09&show_icons=true&bg_color=00000000&theme=github_dark)
+![GitHub Streak](https://streak-stats.demolab.com?user=johnlouie09&theme=github-dark-blue&currStreakNum=FFD700&currStreakLabel=FFA500&sideLabels=FFA500&background=45%2C00000000%2C00000000) <br>
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnlouie09&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=20&bg_color=00000000" 
+  height="350"
+  />
+  
+### 🏆 GitHub Trophies
+![Github Trophies](https://github-profile-trophy.vercel.app/?username=johnlouie09&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
+
+### 🌟 Contributions
+
+![Graph](https://github-readme-activity-graph.vercel.app/graph?username=johnlouie09&theme=react)
+![Snake](https://raw.githubusercontent.com/johnlouie09/johnlouie09/output/github-snake-dark.svg)
+
+| ✍️ Random Dev Quote                                                               | 🔝 Top Contributed Repo                                                                                                                      |
+| --------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![Quotes](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical) | ![Top contributed](https://github-contributor-stats.vercel.app/api?username=johnlouie09&limit=5&theme=dark&combine_all_yearly_contributions=true) |
 
 ### 📫 &nbsp; How to reach me:
 
