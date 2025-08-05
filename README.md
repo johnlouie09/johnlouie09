@@ -5,7 +5,6 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 🎓 &nbsp;I’m a recent graduate with a **Bachelor of Science in Computer Science** from [ACLC Iriga](https://github.com/aclc-iriga). \
-🔭 &nbsp;I'm currently working on JMH Microfinance Inc. as an Account Officer. \
 💼 &nbsp;I’m now actively looking for opportunities as a **full-stack developer** or **junior web developer**. \
 ✉️ &nbsp;You can email me at navales.johnlouie18@gmail.com or louienvls09@gmail.com.
 
@@ -41,7 +40,7 @@
 ### 📫 &nbsp; How to reach me:
 
 
-<a href="https://www.linkedin.com/in/john-louie-navales-247aba289/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> &nbsp;
+<a href="https://www.linkedin.com/in/johnlouienavales/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> &nbsp;
 <a href="mailto:navales.johnlouie18@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> &nbsp;
 
 
