@@ -36,6 +36,7 @@
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)&nbsp;
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
+---
 ## 📊 GitHub Stats:
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=johnlouie09&show_icons=true&bg_color=00000000&theme=github_dark)
@@ -51,15 +52,14 @@
 ### 🌟 Contributions
 
 ![Graph](https://github-readme-activity-graph.vercel.app/graph?username=johnlouie09&theme=react)
-![Snake](https://raw.githubusercontent.com/johnlouie09/johnlouie09/output/github-snake-dark.svg)
 
+---
 | ✍️ Random Dev Quote                                                               | 🔝 Top Contributed Repo                                                                                                                      |
 | --------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------- |
 | ![Quotes](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical) | ![Top contributed](https://github-contributor-stats.vercel.app/api?username=johnlouie09&limit=5&theme=dark&combine_all_yearly_contributions=true) |
 
+---
 ### 📫 &nbsp; How to reach me:
-
-
 <a href="https://www.linkedin.com/in/johnlouienavales/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> &nbsp;
 <a href="mailto:navales.johnlouie18@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> &nbsp;
 
