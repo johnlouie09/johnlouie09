@@ -6,7 +6,7 @@
 💼 &nbsp;I’m now actively looking for opportunities as a **full-stack developer** or **junior web developer**. \
 ✉️ &nbsp;You can email me at navales.johnlouie18@gmail.com or louienvls09@gmail.com.
 
-[![Visit Counter](https://komarev.com/ghpvc/?username=Xylphy&style=for-the-badge&color=3bcdeb)](https://komarev.com/ghpvc/?username=Xylphy&style=for-the-badge&color=3bcdeb)
+[![Visit Counter](https://komarev.com/ghpvc/?username=johnlouie09&style=for-the-badge&color=3bcdeb)](https://komarev.com/ghpvc/?username=johnlouie09&style=for-the-badge&color=3bcdeb)
 
 ---
 ### 🌟 &nbsp;Featured GitHub Repositories
