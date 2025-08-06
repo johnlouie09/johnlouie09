@@ -8,7 +8,8 @@
 
 [![Visit Counter](https://komarev.com/ghpvc/?username=johnlouie09&style=for-the-badge&color=3bcdeb)](https://komarev.com/ghpvc/?username=johnlouie09&style=for-the-badge&color=3bcdeb)
 
----
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
 ### 🌟 &nbsp;Featured GitHub Repositories
 
 [![YOUTH Platform](https://github-readme-stats.vercel.app/api/pin/?username=johnlouie09&repo=youth&theme=tokyonight)](https://github.com/johnlouie09/youth)
@@ -36,7 +37,8 @@
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)&nbsp;
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
----
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
 ## 📊 GitHub Stats:
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=johnlouie09&show_icons=true&bg_color=00000000&theme=github_dark)
@@ -53,7 +55,8 @@
 
 ![Graph](https://github-readme-activity-graph.vercel.app/graph?username=johnlouie09&&bg_color=0d1117&color=ffffff&line=00b3ff&point=f9fafa&area=true)
 
----
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
 | ✍️ Random Dev Quote                                                               | 🔝 Top Contributed Repo                                                                                                                      |
 | --------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------- |
 | ![Quotes](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical) | ![Top contributed](https://github-contributor-stats.vercel.app/api?username=johnlouie09&limit=5&theme=dark&combine_all_yearly_contributions=true) |
