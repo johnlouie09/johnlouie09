@@ -13,8 +13,6 @@
 ### 🌟 &nbsp;Featured GitHub Repositories
 
 [![YOUTH Platform](https://github-readme-stats.vercel.app/api/pin/?username=johnlouie09&repo=youth&theme=tokyonight)](https://github.com/johnlouie09/youth)
-[![Laundry Management System](https://github-readme-stats.vercel.app/api/pin/?username=johnlouie09&repo=bubble-bliz&theme=tokyonight)](https://github.com/johnlouie09/bubble-bliz)
-[![ACLC Tabulation Page](https://github-readme-stats.vercel.app/api/pin/?username=johnlouie09&repo=aclc-tabulation-landing&theme=tokyonight)](https://github.com/johnlouie09/aclc-tabulation-landing)
 
 ### 🛠 &nbsp;Tech Stack
 
